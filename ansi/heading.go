@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/charmbracelet/glamour/ansi/indent"
-	"github.com/charmbracelet/glamour/ansi/wordwrap"
+	"github.com/lbuczkow/glamour/ansi/indent"
+	"github.com/lbuczkow/glamour/ansi/wordwrap"
 )
 
 // A HeadingElement is used to render headings.

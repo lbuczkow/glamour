@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/charmbracelet/glamour/ansi/wordwrap"
+	"github.com/lbuczkow/glamour/ansi/wordwrap"
 )
 
 // A ParagraphElement is used to render individual paragraphs.

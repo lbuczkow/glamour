@@ -3,8 +3,8 @@ package ansi
 import (
 	"io"
 
-	"github.com/charmbracelet/glamour/ansi/indent"
-	"github.com/charmbracelet/glamour/ansi/padding"
+	"github.com/lbuczkow/glamour/ansi/indent"
+	"github.com/lbuczkow/glamour/ansi/padding"
 )
 
 // MarginWriter is a Writer that applies indentation and padding around

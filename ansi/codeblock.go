@@ -7,7 +7,7 @@ import (
 	"github.com/alecthomas/chroma"
 	"github.com/alecthomas/chroma/quick"
 	"github.com/alecthomas/chroma/styles"
-	"github.com/charmbracelet/glamour/ansi/indent"
+	"github.com/lbuczkow/glamour/ansi/indent"
 	"github.com/muesli/termenv"
 )
 

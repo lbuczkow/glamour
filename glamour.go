@@ -15,7 +15,7 @@ import (
 	"github.com/yuin/goldmark/renderer"
 	"github.com/yuin/goldmark/util"
 
-	"github.com/charmbracelet/glamour/ansi"
+	"github.com/lbuczkow/glamour/ansi"
 )
 
 // A TermRendererOption sets an option on a TermRenderer.

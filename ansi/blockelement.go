@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/charmbracelet/glamour/ansi/wordwrap"
+	"github.com/lbuczkow/glamour/ansi/wordwrap"
 )
 
 // BlockElement provides a render buffer for children of a block element.
